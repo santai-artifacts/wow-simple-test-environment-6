@@ -70,3 +70,17 @@
 [2026-07-14T15:13:18.742Z] 🔍 Starting workspace verification
 [2026-07-14T15:13:18.743Z] Found 0 tool uses for verification
 [2026-07-14T15:14:01.659Z] client attached (pid 84)
+[2026-07-14T15:23:50.859Z] === AGENT-DAEMON STARTED === | {
+  "pid": 84,
+  "session_id": "df816be24b0c",
+  "user_id": "lgpHMcv7ecWoeDirF0x0gmwIUGACmBVW",
+  "socket": "/tmp/agent-daemon-53f4b1fc-19ce-4679-8d95-329f7c019bcf.sock"
+}
+[2026-07-14T15:23:50.876Z] Starting SDK query loop
+[2026-07-14T15:23:51.207Z] 🎧 daemon listening | {
+  "socket": "/tmp/agent-daemon-53f4b1fc-19ce-4679-8d95-329f7c019bcf.sock"
+}
+[2026-07-14T15:23:51.211Z] client attached (pid 84)
+[2026-07-14T15:23:51.371Z] transcript load ← DB: 59 entries: queue-operation×8, user×15, ai-title×5, assistant×22, last-prompt×4, attachment×2, mode×3
+[2026-07-14T15:26:01.347Z] 🔌 new client attached, superseding prior
+[2026-07-14T15:26:01.348Z] client attached (pid 84)

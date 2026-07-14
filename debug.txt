@@ -1,0 +1,11 @@
+[2026-07-14T15:23:50.858Z] === AGENT-DAEMON STARTED === | {
+  "pid": 84,
+  "session_id": "df816be24b0c",
+  "user_id": "lgpHMcv7ecWoeDirF0x0gmwIUGACmBVW",
+  "socket": "/tmp/agent-daemon-53f4b1fc-19ce-4679-8d95-329f7c019bcf.sock"
+}
+[2026-07-14T15:23:50.875Z] Starting SDK query loop
+[2026-07-14T15:23:51.207Z] 🎧 daemon listening | {
+  "socket": "/tmp/agent-daemon-53f4b1fc-19ce-4679-8d95-329f7c019bcf.sock"
+}
+[2026-07-14T15:26:01.347Z] 🔌 new client attached, superseding prior
